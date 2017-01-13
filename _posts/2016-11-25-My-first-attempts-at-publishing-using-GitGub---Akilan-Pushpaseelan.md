@@ -1,5 +1,5 @@
 ---
-title: My first attempts at publishing using GitGub - Akilan Pushpaseelan
+title: My first attempts at publishing using GitGub - AKP145
 layout: post
 author: AkP145
 permalink: /my-first-attempts-at-publishing-using-gitgub---akilan-pushpaseelan/
@@ -11,7 +11,7 @@ published: true
     <td>Title:  </td>
     <td>Using a spreadsheet </td>
     <td> Date:  </td>
-    <td>07/09/16</td>
+    <td>12/1/16</td>
   </tr>
 </table>
 
@@ -47,7 +47,7 @@ published: true
     <td>What limited my learning? Which habits do I need to work on? </td>
   </tr>
   <tr>
-    <td>To get the correct formula, understanding the code.</td>
+    <td>To get the correct formula, understanding the code and learn how to make a total of the items.</td>
   </tr>
   <tr>
     <td>What will I change for next time? How will I improve my learning?</td>
